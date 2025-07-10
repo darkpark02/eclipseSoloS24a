@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
+	<name>eclipseSoloProjA</name>
+=======
 	<name>eclipseSoloS24a</name>
+>>>>>>> branch 'master' of https://github.com/darkpark02/eclipseSoloS24a.git
 	<comment></comment>
 	<projects>
 	</projects>
